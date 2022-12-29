@@ -5,4 +5,3 @@ In addition, with the rise of popularity of ChatGPT has sparked a newly found in
 
 In this study case, I develop a machine learning model that can accurately identify sarcastic headlines in a given dataset, using natural language processing techniques and supervised learning."
 
-This objective clearly states the goal of the project and specifies the methods that will be used to achieve it. It is important to have a clear and specific objective in order to focus the efforts of the project and measure the success of the model
